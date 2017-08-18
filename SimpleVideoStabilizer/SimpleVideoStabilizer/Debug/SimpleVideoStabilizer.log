@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/7/17 10:14:00。
+     1>项目“D:\WorkSpace\WorkSpaceVS\稳像尝试\SimpleVideoStabilizer\SimpleVideoStabilizer\SimpleVideoStabilizer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Stabilition.cpp
+         Stabilition.cpp
+     1>d:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\workspace\workspacevs\稳像尝试\simplevideostabilizer\simplevideostabilizer\stabilition.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\workspace\workspacevs\稳像尝试\simplevideostabilizer\simplevideostabilizer\stabilition.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\workspace\workspacevs\稳像尝试\simplevideostabilizer\simplevideostabilizer\stabilition.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\VS\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WorkSpace\WorkSpaceVS\稳像尝试\SimpleVideoStabilizer\Debug\SimpleVideoStabilizer.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\WorkSpace\WorkSpaceVS\稳像尝试\SimpleVideoStabilizer\Debug\SimpleVideoStabilizer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WorkSpace\WorkSpaceVS\稳像尝试\SimpleVideoStabilizer\Debug\SimpleVideoStabilizer.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Stabilition.obj
+         SimpleVideoStabilizer.vcxproj -> D:\WorkSpace\WorkSpaceVS\稳像尝试\SimpleVideoStabilizer\Debug\SimpleVideoStabilizer.exe
+     1>已完成生成项目“D:\WorkSpace\WorkSpaceVS\稳像尝试\SimpleVideoStabilizer\SimpleVideoStabilizer\SimpleVideoStabilizer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.02
